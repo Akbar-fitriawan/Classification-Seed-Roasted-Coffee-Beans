@@ -1,0 +1,10 @@
+https://huggingface.co/spaces/Afitriawan/GC7
+
+# ipynb
+https://colab.research.google.com/drive/132SsPhLd7HpjoZVTHI6fL_qDrWwjoNDG#scrollTo=pek_JUoRyD-L
+
+# inference
+https://colab.research.google.com/drive/1qqWYPPYzM3FIn3v4lbDWyqDeowyWBzVS#scrollTo=g84ZAG19nrhz
+
+
+https://drive.google.com/drive/folders/1PF0rKLOQA62oAFJ6UoE-4z0lycwsY4zO?usp=drive_link
